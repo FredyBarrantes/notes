@@ -5,5 +5,10 @@ if (a >= b) {
 
 ls = [1, 2, 3, 4]
 ls.forEach(element => {
-    alert(element)
+    /*At this point freDev Start coding*/
+    if (element > 2) {
+        alert(element)
+    }else if (element < 3) {
+        alert(element)
+    }
 });
