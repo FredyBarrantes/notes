@@ -1,1 +1,2 @@
 Fredy has created this second file to manipulate and learn.
+trying out git, this line is the second change to the repository.
