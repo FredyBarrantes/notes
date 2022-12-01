@@ -7,3 +7,5 @@ ls = [1, 2, 3, 4]
 ls.forEach(element => {
     alert(element)
 });
+// Here start the programmer
+ls.push(5)
